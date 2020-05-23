@@ -1,0 +1,11 @@
+C:\Users\devp\source\repos\SaberLibreriasWindows\SaberLibreriasWindows\bin\Debug\SaberLibreriasWindows.exe
+C:\Users\devp\source\repos\SaberLibreriasWindows\SaberLibreriasWindows\bin\Debug\SaberLibreriasWindows.pdb
+C:\Users\devp\source\repos\SaberLibreriasWindows\SaberLibreriasWindows\bin\Debug\SaberLibreriasWindows.xml
+C:\Users\devp\source\repos\SaberLibreriasWindows\SaberLibreriasWindows\obj\Debug\SaberLibreriasWindows.Form1.resources
+C:\Users\devp\source\repos\SaberLibreriasWindows\SaberLibreriasWindows\obj\Debug\SaberLibreriasWindows.Resources.resources
+C:\Users\devp\source\repos\SaberLibreriasWindows\SaberLibreriasWindows\obj\Debug\SaberLibreriasWindows.vbproj.GenerateResource.cache
+C:\Users\devp\source\repos\SaberLibreriasWindows\SaberLibreriasWindows\obj\Debug\SaberLibreriasWindows.vbproj.CoreCompileInputs.cache
+C:\Users\devp\source\repos\SaberLibreriasWindows\SaberLibreriasWindows\obj\Debug\SaberLibreriasWindows.exe
+C:\Users\devp\source\repos\SaberLibreriasWindows\SaberLibreriasWindows\obj\Debug\SaberLibreriasWindows.xml
+C:\Users\devp\source\repos\SaberLibreriasWindows\SaberLibreriasWindows\obj\Debug\SaberLibreriasWindows.pdb
+C:\Users\devp\source\repos\SaberLibreriasWindows\SaberLibreriasWindows\obj\Debug\SaberLibreriasWindows.vbprojAssemblyReference.cache
